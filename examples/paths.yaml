@@ -1,0 +1,5 @@
+- path: /go
+  url: https://en.wikipedia.org/wiki/Go_(programming_language)
+
+- path: /rust
+  url: https://en.wikipedia.org/wiki/Rust_(programming_language)
